@@ -1,0 +1,29 @@
+{
+  "name": "xcx",
+  "version": "1.0.0",
+  "description": "xcx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmw6412036/xcx.git"
+  },
+  "keywords": [
+    "xcx"
+  ],
+  "author": "lmw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmw6412036/xcx/issues"
+  },
+  "homepage": "https://github.com/lmw6412036/xcx#readme",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
