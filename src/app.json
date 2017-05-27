@@ -1,19 +1,25 @@
 {
-  "pages": [
-
-  ],
-  "window": {
-    "navigationBarTitleText": "Demo"
-  },
-  "tabBar": {
-    "list": [{
-      "pagePath": "pages/index/index",
-      "text": "首页"
-    }]
-  },
-  "networkTimeout": {
-    "request": 10000,
-    "downloadFile": 10000
-  },
-  "debug": true
+    "pages": [
+        "pages/index",
+        "pages/book/index",
+        "pages/consult/index",
+        "pages/tabs/book",
+        "pages/tabs/consult"
+    ],
+    "window": {
+        "navigationBarTitleText": "Demo"
+    },
+    "tabBar": {
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "首页"
+            }
+        ]
+    },
+    "networkTimeout": {
+        "request": 10000,
+        "downloadFile": 10000
+    },
+    "debug": true
 }

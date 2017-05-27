@@ -22,6 +22,7 @@
   "devDependencies": {
     "co": "^4.6.0",
     "colors": "^1.1.2",
+    "glob": "^7.1.2",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0"
